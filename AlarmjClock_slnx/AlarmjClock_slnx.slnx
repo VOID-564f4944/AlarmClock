@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="AlarmClock_proj/AlarmClock_proj.vcxproj" Id="1750f300-9031-427f-b973-42e6e5de7b6f" />
+</Solution>
